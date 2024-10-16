@@ -1,0 +1,4 @@
+Temps total d'execution pour trouver les capteurs defaillants : 2155 ms
+Nombre de capteurs : 100
+Temps moyen d'execution par capteur : 21 ms
+Temps total d'execution pour calculer l'indice de qualite de l'air : 14 ms
