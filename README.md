@@ -44,8 +44,9 @@ AirWatcher offers a console-based user interface tailored for different roles wi
    git clone https://github.com/Samsam19191/AirWatcher.git
 2. Navigate to the project directory and run the application using make:
 
-cd AirWatcher
-make
+   ```bash
+   cd AirWatcher
+   make
 
 This will compile and run the application based on the Makefile provided.
 
