@@ -47,6 +47,7 @@ AirWatcher offers a console-based user interface tailored for different roles wi
    ```bash
    cd AirWatcher
    make
+   ./main
 
 This will compile and run the application based on the Makefile provided.
 
